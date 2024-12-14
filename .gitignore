@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+.env_vars
+.venv
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+metric_accuracy_plot_binary_ndd.png
+metric_accuracy_plot_binary_ndd.png
+anova_metric_accuracy_plot_hd.png
+/home/ahsan-pmylsp/Desktop/Migration-Learning-FastAPI/Binary Classification - UNSW-NB15- Dataset.png
+# FastAPI
+*.sqlite3
+*.db
+instance/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
+*.tmp
+*.bak
+*.swp
+
+plots.ipynb
